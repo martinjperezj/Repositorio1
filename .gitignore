@@ -1,0 +1,6 @@
+#ignoramos copias de seguridad
+/*~
+#ignoramos este fichero
+#.gitignore  (hacer esto en la casa)
+#ignora los .class
+/*.class
